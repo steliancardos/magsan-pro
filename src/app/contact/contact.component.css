@@ -1,0 +1,18 @@
+.contact-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 390px);
+    grid-row-gap: 5px;
+    grid-column-gap: 5px;
+    justify-content: center;
+    width: 90%;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.contact-container>.item {
+    padding: 5px;
+}
+
+.center {
+    text-align: center;
+  }
