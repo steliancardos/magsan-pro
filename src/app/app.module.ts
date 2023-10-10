@@ -8,6 +8,7 @@ import { HomeComponent } from './home/home.component';
 import { ProduseComponent } from './produse/produse.component';
 import { ContactComponent } from './contact/contact.component';
 import { DespreComponent } from './despre/despre.component';
+import { AngularFontAwesomeModule } from 'angular-font-awesome';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { DespreComponent } from './despre/despre.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    AngularFontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
