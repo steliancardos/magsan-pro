@@ -1,0 +1,20 @@
+
+@media only screen and (max-width: 600px) {
+    .despre-content { 
+        color: white;
+        font-size: small;
+        margin-top: 6em;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .despre-content { 
+        color: white;
+        margin: 0 auto;
+        display: inline-block;
+        top: 50%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, -50%);
+    }
+}
