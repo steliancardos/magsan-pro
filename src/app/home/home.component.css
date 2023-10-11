@@ -2,4 +2,10 @@
 .title{ 
     color: white;
     font-size: xxx-large;
+    margin: 0 auto;
+    display: inline-block;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
 }

@@ -263,17 +263,13 @@ nav input{
   z-index: -999999999;
   position: fixed; 
   top: 0; 
+  height: 100%;
   left: 0;
   min-width: 100%;
   min-height: 100%;
+  filter: brightness(0.5) saturate(0%);
 }
-
-
-
-
-
-
-
-
-
-
+.menu-button {
+  background: url('../assets/menu.png') no-repeat;
+  height: 1em;
+}
