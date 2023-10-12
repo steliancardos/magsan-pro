@@ -2,7 +2,7 @@
 @media only screen and (max-width: 600px) {
     .despre-content { 
         color: white;
-        font-size: small;
+        font-size: x-small;
         margin-top: 6em;
     }
 }
