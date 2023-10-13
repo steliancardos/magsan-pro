@@ -4,14 +4,14 @@
   display: flex;
   width: 100%;
   margin-bottom: 15px;
-  padding: 1em;
+  padding: 10px;
   max-width:300px;
   margin:auto;
 }
 
 .icon {
   padding: 10px;
-  background: rgb(135, 30, 255);
+  background: #8A70FF;
   color: white;
   min-width: 50px;
   text-align: center;
@@ -25,4 +25,7 @@
 
 .input-field:focus {
   border: 2px solid dodgerblue;
+}
+.logo-transparent { 
+  height: 6.2em;
 }

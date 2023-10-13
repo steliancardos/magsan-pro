@@ -12,7 +12,11 @@ nav{
   z-index: 99;
   width: 100%;
   
-  background: #5D3FD3;
+  /* background: #7E62D8; */
+  background: #8A70FF;
+}
+.logo-transparent {
+  height: 1em;
 }
 nav .wrapper{
   position: relative;
