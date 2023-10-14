@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-fitinguri',
   templateUrl: './fitinguri.component.html',
-  styleUrls: ['./fitinguri.component.css']
+  styleUrls: ['../general.css', './fitinguri.component.css']
 })
 export class FitinguriComponent {
 
