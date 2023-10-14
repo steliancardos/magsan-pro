@@ -116,6 +116,7 @@ img {
   font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 1.25rem;
+  width: 43em;
 }
 .card__footer{
   background-color: white;

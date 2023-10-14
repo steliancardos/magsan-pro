@@ -123,4 +123,12 @@ img {
   font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 1.25rem;
+  width: 43em;
+}
+.card__footer{
+  background-color: white;
+  border: 1px solid #cccccc;
+  color: #696969;
+  padding: 0.5rem;
+  text-align: center;
 }
