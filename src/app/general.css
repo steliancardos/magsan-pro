@@ -85,7 +85,7 @@ img {
   font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 1.25rem;
-  min-width: 20em;
+  min-width: 80vw;
 }
 .card__footer{
   background-color: white;

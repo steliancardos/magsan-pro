@@ -29,7 +29,8 @@ const routes: Routes = [
   { path: 'produse-fitinguri', component: FitinguriComponent },
   { path: 'produse-robineti', component: RobinetiComponent },
   { path: 'produse-tevi', component: TeviComponent },
-  { path: 'produse-vas-wc', component: VasWcComponent }
+  { path: 'produse-vas-wc', component: VasWcComponent },
+  { path: '*', component: HomeComponent}
 ];
 
 @NgModule({
